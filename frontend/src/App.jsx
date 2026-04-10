@@ -20,7 +20,7 @@ import {
   Legend,
 } from "recharts";
 
-const API = "http://localhost:5000/api";
+const API = "https://agronet-cchb.onrender.com";
 
 /* ── PALETTE ───────────────────────────────────────────────────────────────── */
 const C = {
